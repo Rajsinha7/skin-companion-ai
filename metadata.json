@@ -1,0 +1,6 @@
+{
+  "name": "Skin Companion AI",
+  "description": "A luxury AI-powered skin analysis application inspired by the visual aesthetic of QOVES. Built as a high-fidelity interactive mobile prototype with a complete Expo Router & React Native codebase, integrated Firebase models, and a live Gemini-powered skin scanning backend.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
